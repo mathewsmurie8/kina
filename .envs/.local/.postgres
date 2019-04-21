@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=kina
+POSTGRES_USER=kDwfIAwMHvNySPtBQNaLmoChgLGNVMZt
+POSTGRES_PASSWORD=Sfwo2VSxQ3RVrGDsqndAaflOi7MMzGPC8hFn9wyizQPOQS0qNQdj2PBEcNAXIKn5
